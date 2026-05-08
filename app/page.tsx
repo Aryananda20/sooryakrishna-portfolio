@@ -108,7 +108,7 @@ export default function Home() {
   <div 
     className="absolute right-0 top-0 w-full lg:w-[40%] h-full z-0 opacity-100 pointer-events-none"
     style={{ 
-      backgroundImage: "url('/about.png')", 
+      backgroundImage: "url('/about .png')", 
       backgroundSize: 'cover',
       backgroundPosition: 'center right',
       backgroundRepeat: 'no-repeat'
